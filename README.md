@@ -30,6 +30,7 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
 ## Features:
 - [x] Mobile first<br>
 - [x] Responsividade<br>
+- [x] Slider<br>
 
 # Techs: 
 - **HTML**
