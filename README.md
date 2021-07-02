@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">OriginSix</h1>
-    <p>OriginSix é uma página institucional no formato One Page, desenvolvida durante a Maratona Discover</p>
+    <p>OriginSix é uma página institucional no formato One Page, desenvolvida durante a #NLW/Together</p>
     <img src="./design/mockup.png" alt="Logo" width="800">
 </div>
 
@@ -25,7 +25,7 @@
 * [Licença](#licença)
 
 # Descrição
-OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer. Desenvolvida durante a Maratona Discover realizada pela [**@Rocketseat**](https://github.com/Rocketseat)
+OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer. Desenvolvida durante a #NLW/Together realizada pela [**@Rocketseat**](https://github.com/Rocketseat)
 
 ## Features:
 - [x] Mobile first<br>
