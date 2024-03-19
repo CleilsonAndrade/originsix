@@ -1,6 +1,6 @@
 <div align="center">
     <h1 align="center">OriginSix</h1>
-    <p>Landing page institucional de um salão de beleza.</p>
+    <p>Landing page institucional de um salão de beleza. Com HTML semântico e estudo flex.</p>
     <img src="./design/mockup.png" alt="Logo" width="800">
 </div>
 
