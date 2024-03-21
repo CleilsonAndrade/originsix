@@ -16,7 +16,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer. Desenvolvida durante a #NLW/Together realizada pela [**@Rocketseat**](https://github.com/Rocketseat)
+OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer. Desenvolvida durante a #NLW/Together realizada pela [**@Rocketseat**](https://github.com/Rocketseat).
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Mobile first<br>
@@ -42,9 +42,7 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
   * #FFFFFF<br>
 
 - <span id="fontes">Fontes<br></span>
-  * Poppins: Regular 400, Medium 500, Bold 700
-  * DM Sans: Regular 400, Medium 500, Bold 700
-
+  * Poppins, DM Sans, sans-serif
 
 - <span id="ícones">Ícones<br></span>
   * Feather
