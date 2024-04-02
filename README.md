@@ -32,7 +32,6 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
 
 # 🎨 <span id="design">Design</span>
 - O modelo final para desktop e mobile está disponível na pasta `./design`
-- Imagens disponíveis na pasta `./assets`<br>
 
 - <span id="cores">Cores<br></span>
   * #0F241D<br>
